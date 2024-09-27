@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "name": "Sıla Kara",
+    "studentNumber": "122",
+    "email": "sila@mail.com",
+    "phone": "+90 (500) 104 7001",
+    "examResults": [
+      {
+        "HTML": "90",
+        "CSS":"90",
+        "JavaScript":"70",
+        "React":"75",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-09-01",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": false
+      }
+    ],
+    "classId": 2
+  },
+  {
+    "id": 2,
+    "name": "Sudenur Taştekin",
+    "studentNumber": "123",
+    "email": "sude@mail.com",
+    "phone": "+90 (500) 104 7001",
+    "examResults": [
+      {
+        "HTML": "95",
+        "CSS":"80",
+        "JavaScript":"70",
+        "React":"70",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-09-01",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": true
+      }
+    ],
+    "classId": 2
+  },
+  {
+    "id": 3,
+    "name": "Arda Toraman",
+    "studentNumber": "124",
+    "email": "arda@mail.com",
+    "phone": "+90 (500) 104 7001",
+    "examResults": [
+      {
+        "HTML": "100",
+        "CSS":"98",
+        "JavaScript":"80",
+        "React":"70",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance": [
+      {
+        "date": "2024-09-01",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": false
+      }
+    ],
+    "classId": 2
+  },
+  {
+    "id": 4,
+    "name": "Emre Kara",
+    "studentNumber": "140",
+    "email": "emre@mail.com",
+    "phone": "+90 (555) 555 5555",
+    "examResults": [
+      {
+        "HTML": "35",
+        "CSS": "45",
+        "JavaScript": "70",
+        "React":"60",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance":[
+      {
+        "date":"2024-09-01",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": true
+      }
+    ],
+    "classId": 3
+  },
+  {
+    "id": 5,
+    "name": "Buse Uçar",
+    "studentNumber": "142",
+    "email": "buse@mail.com",
+    "phone": "+90 (555) 555 5555",
+    "examResults": [
+      {
+        "HTML": "85",
+        "CSS": "90",
+        "JavaScript": "70",
+        "React":"60",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance":[
+      {
+        "date":"2024-09-01",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": false
+      }
+    ],
+    "classId": 1
+  },
+  {
+    "id": 6,
+    "name": "İrem Sözen",
+    "studentNumber": "144",
+    "email": "irem@mail.com",
+    "phone": "+90 (555) 555 5555",
+    "examResults": [
+      {
+        "HTML": "85",
+        "CSS": "75",
+        "JavaScript": "65",
+        "React":"70",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance":[
+      {
+        "date":"2024-09-01",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": true
+      }
+    ],
+    "classId": 3
+  },
+  {
+    "id": 7,
+    "name": "Bahadır Kaya",
+    "studentNumber": "146",
+    "email": "kaya@mail.com",
+    "phone": "+90 (555) 555 5555",
+    "examResults": [
+      {
+        "HTML": "85",
+        "CSS": "50",
+        "JavaScript": "80",
+        "React":"70",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance":[
+      {
+        "date":"2024-09-01",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": false
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": true
+      }
+    ],
+    "classId": 1
+  },
+  {
+    "id": 8,
+    "name": "Funda Sarı",
+    "studentNumber": "149",
+    "email": "funda@mail.com",
+    "phone": "+90 (555) 555 5555",
+    "examResults": [
+      {
+        "HTML": "85",
+        "CSS": "95",
+        "JavaScript": "80",
+        "React":"70",
+        "nextjs": "Sonuçlanmadı"
+      }
+    ],
+    "attendance":[
+      {
+        "date":"2024-09-01",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-02",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-09",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-10",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-17",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-18",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-25",
+        "isAttended": true
+      },
+      {
+        "date": "2024-09-26",
+        "isAttended": true
+      }
+    ],
+    "classId": 2
+  }
+]
